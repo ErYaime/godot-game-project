@@ -11,8 +11,6 @@ Este repositorio contiene el desarrollo progresivo de un juego 2D creado con God
 
 Cada versión incluye su propio archivo `CHANGELOG.md` con detalles específicos de los cambios y mejoras.
 
-[![Latest Release](https://img.shields.io/github/v/release/ErYaime/godot-game-project)](https://github.com/ErYaime/godot-game-project/releases/latest)
-
 ---
 
 ## 🔧 Acerca del proyecto
