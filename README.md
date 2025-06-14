@@ -39,9 +39,4 @@ Este proyecto está bajo licencia MIT. Consulta el archivo LICENSE para más inf
 
 ---
 
-[![Latest Release](https://img.shields.io/github/v/release/ErYaime/godot-game-project)](https://github.com/ErYaime/godot-game-project/releases/latest)
-
-https://github.com/ErYaime/godot-game-project.git
-
-
 ¡Gracias por tu interés en el proyecto!
