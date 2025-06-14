@@ -39,4 +39,7 @@ Este proyecto está bajo licencia MIT. Consulta el archivo LICENSE para más inf
 
 ---
 
+[![Latest Release](https://img.shields.io/github/v/release/usuario/repositorio)](https://github.com/usuario/repositorio/releases/latest)
+
+
 ¡Gracias por tu interés en el proyecto!
